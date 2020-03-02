@@ -18,9 +18,13 @@ Wij zitten in de beginfase van het project en moeten deze periode gebruik maken 
 
 ### Welke keuzemogelijkheden heb je?
 
-o Het via internet uitzoeken.
-o Hulp vragen bij ouderejaars.
-o Hulp vragen bij docent.
+
+<ul>
+<li>Het via internet uitzoeken.</li>
+<li>Hulp vragen bij ouderejaars.</li>
+<li>Hulp vragen bij docent.</li>
+</ul>
+
 
 ### Welke keuze heb je gemaakt?
 
@@ -41,9 +45,10 @@ We kwamen erachter dat je een stage dubbel kon toevoegen. Dit was niet de bedoel
 
 ### Welke keuzemogelijkheden heb je?
 
-o Een knop aanmaken waarbij hij de stage met dezelfde naam verwijderd en de nieuwe stage toevoegd.
-o Een edit knop aanmaken waarbij hij de gegevens aanpast.
-
+<ul>
+<li>Een knop aanmaken waarbij hij de stage met dezelfde naam verwijderd en de nieuwe stage toevoegd.</li>
+<li>Een edit knop aanmaken waarbij hij de gegevens aanpast.</li>
+</ul>
 ### Welke keuze heb je gemaakt?
 
 Een edit knop aanmaken waarbij hij de gegevens aanpast.
@@ -62,8 +67,8 @@ Het was niet duidelijk wanneer de stageview is aangepast.
 
 ### Welke keuzemogelijkheden heb je?
 
-o Een extra pop-up toevoegen.
-o Als je of save drukt, naast de knop "saved" laten typen.
+<li>Een extra pop-up toevoegen.</li>
+<li>Als je of save drukt, naast de knop "saved" laten typen.</li>
 
 
 ### Welke keuze heb je gemaakt?
