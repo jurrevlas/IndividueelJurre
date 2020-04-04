@@ -105,10 +105,35 @@ Na onderzoek dachten wij dat je de verschillende lagen opnieuw kan laten tekenen
 
 ## Week 6
 
-Deze week stond in het teken van de simulatie. We zijn de map opnieuw gaan maken omdat onze vorige niet naar json-file gegenareerd kon worden. we zijn ook de visitors gaan toevoegen. hiernaars ben ik me gaan focussen hoe wij gebruik gaan maken van de map. Ik ben de map opnieuw gaan ontwerpen maar ben ook naar oplossingen gaan zoeken hoe wij de map het beste erin kunnen zetten. Naast al deze lastige opdrachten was ik helaas ook ziek geworden en zijn wij begonnen met thuiswerken door het corona virus. Een moeilijke en angstige periode waar bij mij gezondheid boven school stond. Toch heb ik geprobeerd hard mee te werken.
+Deze week stond in het teken van de simulatie. We zijn de map opnieuw gaan maken omdat onze vorige niet naar json-file gegenareerd kon worden. we zijn ook de visitors gaan toevoegen. hiernaars ben ik me gaan focussen hoe wij gebruik gaan maken van de map. Ik ben ook nog samen met Davy gaann werken aan een naamgenerator om toe te voegen aan de poppetjes later. Naast al deze lastige opdrachten was ik helaas ook ziek geworden en zijn wij begonnen met thuiswerken door het corona virus. Een moeilijke en angstige periode waar bij mij gezondheid boven school stond. Toch heb ik geprobeerd hard mee te werken.
+
 ### Wat is de situatie(context)?
 
-We willen de map inplimenteren.
+We willen meer details gaan toevoegen aan onze poppetjes. Hiervoor wilde wij namen gaan toevoegen, maar wisten nog niet hoe wij dit gingen toevoegen.
+
+### Welke keuzemogelijkheden heb je?
+
+
+<li>Namen hardcode</li>
+<li>Met een random functie namen ontwikkelen in een string</li>
+<li>Een namenlijst downloaden en implementeren</li>
+
+
+### Welke keuze heb je gemaakt?
+
+Davy en ik hebben de keuze gemaakt om een namenlijst te downloaden en te implementeren (deze is er nu helaas uitgehaald).
+
+### Waarom heb je deze keuze gemaakt?
+
+Hardcode zou te lang duren en een random functie zou geen realistische namen ontwikkelen. Hierom hebben wij gekozen voor een namenlijst te downloade en te implementeren.
+
+## Week 7 tot het einde
+
+Vanaf week 7 is er in Nederland een complete lockdown, wat ook grote gevolgen heeft op ons project. Gelukkig hadden wij na deze periodes geen opstart colleges en zijn wij als groep gaan samenwerken om tot het gewenste eindresultaat te komen. Ik ben voornamelijk gaan focussen op testen, bugfixen en commentaar toevoegen. Het waren warrige tijden maar ik ben erg tevreden met het programma wat wij geproduceerd hebben. Het is een stabiel programma waar wij al onze kennis in hebben gestopt. Ik had gewild dat we nog minder lagg hadden maar hier was de kennis niet voor bij ons in het groepje.
+
+### Wat is de situatie(context)?
+
+we willen minder lag tijdens de simulator
 
 ### Welke keuzemogelijkheden heb je?
 
@@ -122,4 +147,6 @@ Ik heb de keuze gemaakt om een foto op de achtergrond te plaatsen.
 ### Waarom heb je deze keuze gemaakt?
 
 In mijn ogen was dit een makkelijke oplossing waardoor het een minder zwaar programma werd. We hebben geen animatie in de achtergrond dus het zou ook makkelijk moeten kunnen.
+
+
 
