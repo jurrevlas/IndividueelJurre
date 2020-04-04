@@ -45,10 +45,9 @@ We kwamen erachter dat je een stage dubbel kon toevoegen. Dit was niet de bedoel
 
 ### Welke keuzemogelijkheden heb je?
 
-<ul>
 <li>Een knop aanmaken waarbij hij de stage met dezelfde naam verwijderd en de nieuwe stage toevoegd.</li>
 <li>Een edit knop aanmaken waarbij hij de gegevens aanpast.</li>
-</ul>
+
 ### Welke keuze heb je gemaakt?
 
 Een edit knop aanmaken waarbij hij de gegevens aanpast.
@@ -149,4 +148,27 @@ Ik heb de keuze gemaakt om een foto op de achtergrond te plaatsen.
 In mijn ogen was dit een makkelijke oplossing waardoor het een minder zwaar programma werd. We hebben geen animatie in de achtergrond dus het zou ook makkelijk moeten kunnen.
 
 
+## stelling 
 
+### “In het bedrijfsleven wordt steeds meer in software gesimuleerd”
+
+Ik sta zeker achter deze stelling. Ik vind het ook zeker terecht. simuleren voor bedrijven is eigenlijk hetzelfde als testen voor programmeurs. Steeds meer bedrijven doen het omdat het veel geld scheeld. Prototypes gaan erdoor niet kapot, mensen komen minder snel in gevaar en het kost minder tijd. Een ander voordeel is dat bedrijven kleine aanpassingen achter elkaar kunnen maken zonder dat het veel tijd en geld kost.
+
+Het echte antwoord op de vraag kan ik niet beantwoorden. Dit doordat er geen tijdsaanduiding is in de vraagstelling. Als je het over vijf jaar hebt dan klopt de stelling niet, als je het over 30 jaar hebt zeker wel. Dit betekend niet dat ik niet achter de stelling sta, ik vind software simulaties een goede uitvinding die veel geld en levens gaat redden.
+
+Bron: de Groot, M. (2015, 9 april). Hoe kan simulatie software bijdragen aan betere innovaties? Geraadpleegd op 5 april 2020, van https://blog.designsolutions.nl/hoe-kan-simulatie-software-bijdragen-aan-betere-innovaties
+
+Onderzoeksmethodiek: Ik ben eerst zelf gaan bekijken wat mijn eigen mening over dit onderwerp was. Hierna ben ik op internet gaan opzoeken wat de meningen van andere waren en kwam ik al snel op mijn bron. deze bron beaamde mijn visie waardoor ik een conclussie kon vormen.
+
+
+## JSON Formaat
+
+### welke sites maken gebruik van JSON formaat?
+Twitter
+Facebook
+Greetz
+Google Maps
+Reddit
+
+### Waarom gebruiken deze sites JSON formaat?
+Dit doen ze denk ik omdat dit bestandsformaat gestructureerd is zodat het zowel door personen als computers te lezen is.
