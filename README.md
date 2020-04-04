@@ -77,3 +77,26 @@ Een extra pop-up toevoegen.
 
 ### Waarom heb je deze keuze gemaakt?
 In overleg met Samir hebben we besloten om voor deze keuze te gaan. Dit omdat het bij de style van onze agenda module past en het er proffecioneler en duidelijker eruit ziet.
+
+
+## Week 5
+
+Deze week stond in het teken van de opzet van de simulatie module, de map inladen en aan de visitors van de simulatie module. Wij zijn als groep gaan kijken naar het map inladen en hiernaast ben ik aan het werk gegaan aan het plan van aanpak. Deze week was het lastig om aan het werk te gaan. De map inladen ging niet zo snel als gepland waardoor we stil kwamen te staan tot we hulp kregen van de docenten. Hierdoor kreeg ik het gevoel alsof ik geen toevoeging was voor de groep, terwijl iedereen eigenlijk stil stond.
+
+### Wat is de situatie(context)?
+
+Het was niet duidelijk wanneer de stageview is aangepast.
+
+### Welke keuzemogelijkheden heb je?
+
+<li>Een extra pop-up toevoegen.</li>
+<li>Als je of save drukt, naast de knop "saved" laten typen.</li>
+
+
+### Welke keuze heb je gemaakt?
+
+Een extra pop-up toevoegen.
+
+### Waarom heb je deze keuze gemaakt?
+In overleg met Samir hebben we besloten om voor deze keuze te gaan. Dit omdat het bij de style van onze agenda module past en het er proffecioneler en duidelijker eruit ziet.
+
