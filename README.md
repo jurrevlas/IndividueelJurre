@@ -105,18 +105,21 @@ Na onderzoek dachten wij dat je de verschillende lagen opnieuw kan laten tekenen
 
 ## Week 6
 
-
-
+Deze week stond in het teken van de simulatie. We zijn de map opnieuw gaan maken omdat onze vorige niet naar json-file gegenareerd kon worden. we zijn ook de visitors gaan toevoegen. hiernaars ben ik me gaan focussen hoe wij gebruik gaan maken van de map. Ik ben de map opnieuw gaan ontwerpen maar ben ook naar oplossingen gaan zoeken hoe wij de map het beste erin kunnen zetten. Naast al deze lastige opdrachten was ik helaas ook ziek geworden en zijn wij begonnen met thuiswerken door het corona virus. Een moeilijke en angstige periode waar bij mij gezondheid boven school stond. Toch heb ik geprobeerd hard mee te werken.
 ### Wat is de situatie(context)?
 
-
+We willen de map inplimenteren.
 
 ### Welke keuzemogelijkheden heb je?
 
-
+De map telkens alles laten tekenen
+een foto op de achtergrond
 
 ### Welke keuze heb je gemaakt?
 
-
+Ik heb de keuze gemaakt om een foto op de achtergrond te plaatsen.
 
 ### Waarom heb je deze keuze gemaakt?
+
+In mijn ogen was dit een makkelijke oplossing waardoor het een minder zwaar programma werd. We hebben geen animatie in de achtergrond dus het zou ook makkelijk moeten kunnen.
+
