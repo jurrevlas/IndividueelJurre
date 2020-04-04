@@ -10,7 +10,7 @@ AFBEELDING KLASSENDIAGRAM FESTIVALPLANNER
 
 Dit hebben wij gemaakt met de gehele groep. 
 
-Nadat ik in de ochtend het klassendiagram heb gemaakt ben ik met Menno de opzet van de java code gaan maken. Hierbij hebben we alle klassen en atributen aangemaakt en zijn we deze klasses gaan kopppelen. Aan het einde van de dag zijn wij gaan uitzoeken hoe de github werkt.
+Nadat ik in de ochtend het klassendiagram heb gemaakt ben ik met Menno de opzet van de java code gaan maken. Hierbij hebben we alle klassen en atributen aangemaakt en zijn we deze klasses gaan kopppelen. Aan het einde van de dag zijn wij gaan uitzoeken hoe de github werkt. Wij hebben als groep deze week ook het design van de inlogpagina en de agendamodule mooi gemaakt.
 
 ### Wat is de situatie(context)?
 
@@ -81,22 +81,42 @@ In overleg met Samir hebben we besloten om voor deze keuze te gaan. Dit omdat he
 
 ## Week 5
 
-Deze week stond in het teken van de opzet van de simulatie module, de map inladen en aan de visitors van de simulatie module. Wij zijn als groep gaan kijken naar het map inladen en hiernaast ben ik aan het werk gegaan aan het plan van aanpak. Deze week was het lastig om aan het werk te gaan. De map inladen ging niet zo snel als gepland waardoor we stil kwamen te staan tot we hulp kregen van de docenten. Hierdoor kreeg ik het gevoel alsof ik geen toevoeging was voor de groep, terwijl iedereen eigenlijk stil stond.
+Deze week stond in het teken van de opzet van de simulatie module, de map inladen en aan de visitors van de simulatie module. Wij zijn als groep gaan kijken naar het map inladen en hiernaast ben ik aan het werk gegaan aan het plan van aanpak. Deze week was het lastig om aan het werk te gaan. De map inladen ging niet zo snel als gepland waardoor we stil kwamen te staan tot we hulp kregen van de docenten. Hierdoor kreeg ik het gevoel alsof ik geen toevoeging was voor de groep, terwijl iedereen eigenlijk stil stond. Hiernaast heb ik wel geholpen aan het maken van de map. Ik ben gaan uitzoeken hoe dit in zijn werking gaat en ben gaan uittekenen hoe het eruit moet komen te zien.
 
 ### Wat is de situatie(context)?
 
-Het was niet duidelijk wanneer de stageview is aangepast.
+We willen een map ontwerpen waar looppaden, atributen en stages zijn. Hier moeten de poppetjes langs kunnen lopen. We waren een beetje aan het uitproberen hoeveel lagen we nodig hadden.
 
 ### Welke keuzemogelijkheden heb je?
 
-<li>Een extra pop-up toevoegen.</li>
-<li>Als je of save drukt, naast de knop "saved" laten typen.</li>
+hier hadden we een keuze tussen 1 tot en met oneindig lagen.
 
 
 ### Welke keuze heb je gemaakt?
 
-Een extra pop-up toevoegen.
+Wij hebben voor de volgende lagen gekozen:
+Een laag waarbij alleen het gras aangemaakt word.
+Een laag waar atributen aangemaakt worden.
+een laag waarin de paden en podias aangemaakt worden.
 
 ### Waarom heb je deze keuze gemaakt?
-In overleg met Samir hebben we besloten om voor deze keuze te gaan. Dit omdat het bij de style van onze agenda module past en het er proffecioneler en duidelijker eruit ziet.
+Na onderzoek dachten wij dat je de verschillende lagen opnieuw kan laten tekenen. Hierdoor dachten wij dat het makkelijk was als je de eerst 2 maar 1 keer tekent en de 3e telkens opnieuw kon laten tekenen met de poppetjes erop.
 
+
+## Week 6
+
+
+
+### Wat is de situatie(context)?
+
+
+
+### Welke keuzemogelijkheden heb je?
+
+
+
+### Welke keuze heb je gemaakt?
+
+
+
+### Waarom heb je deze keuze gemaakt?
