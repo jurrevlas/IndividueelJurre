@@ -8,8 +8,7 @@ Deze week ben ik begonnen met het klassendiagram te maken voor de festivalPlanne
 
 ![IG](https://i.gyazo.com/22ef8883189905d99622e623c09357c7.png)
 
-Dit hebben wij gemaakt met de gehele groep. Nadat ik in de ochtend het klassendiagram heb gemaakt ben ik met Menno de opzet van de java code gaan maken. Hierbij hebben we alle klassen en attributen aangemaakt en zijn we deze klasses gaan kopppelen. Aan het einde van de dag zijn wij gaan uitzoeken hoe de github werkt. Wij hebben als groep deze week ook het design van de inlogpagina en de agendamodule  afgemaakt.
-
+Dit hebben wij gemaakt met de gehele groep. Nadat ik in de ochtend het klassendiagram heb gemaakt ben ik met Menno de opzet van de java code gaan maken. Hierbij hebben we alle klassen en attributen aangemaakt en zijn we deze klasses gaan kopppelen. Aan het einde van de dag zijn wij gaan uitzoeken hoe de github werkt.
 Ik heb ook nog gewerkt aan het design van de applicatie. Zie onderstaande afbeelding.
 
 ![IG](https://i.gyazo.com/ec84f49c6be98c78b850e1c438d45892.png)
