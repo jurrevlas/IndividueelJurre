@@ -4,11 +4,11 @@
 
 ## week 2
 
-Deze week ben ik begonnen met het klassendiagram te maken voor de festivalPlanner. Dit hebben wij gemaakt met de gehele groep. Nadat ik in de ochtend het klassendiagram heb gemaakt ben ik met Menno de opzet van de java code gaan maken. Hierbij hebben we alle klassen en atributen aangemaakt en zijn we deze klasses gaan kopppelen. Aan het einde van de dag zijn wij gaan uitzoeken hoe de github werkt. Wij hebben als groep deze week ook het design van de inlogpagina en de agendamodule mooi gemaakt.
+Deze week ben ik begonnen met het klassendiagram te maken voor de festivalPlanner. Dit hebben wij gemaakt met de gehele groep. Nadat ik in de ochtend het klassendiagram heb gemaakt ben ik met Menno de opzet van de java code gaan maken. Hierbij hebben we alle klassen en attributen aangemaakt en zijn we deze klasses gaan kopppelen. Aan het einde van de dag zijn wij gaan uitzoeken hoe de github werkt. Wij hebben als groep deze week ook het design van de inlogpagina en de agendamodule  afgemaakt.
 
 ### Wat is de situatie(context)?
 
-Wij zitten in de beginfase van het project en moeten deze periode gebruik maken van github. Niemand heeft nog echt ervaring met github dus het is nogal een opgaven hoe wij dit programma goed kunnen gebruiken.
+Ik zit in de beginfase van het project en moet deze periode gebruik maken van github. Niemand heeft nog echt ervaring met github dus het is nogal een opgaven hoe ik dit programma goed kunnen gebruiken.
 
 ### Welke keuzemogelijkheden heb je?
 
@@ -35,7 +35,7 @@ Deze week stond voor mij in het teken van een maken van de “stageView”. Er w
 
 ### Wat is de situatie(context)?
 
-We kwamen erachter dat je een stage dubbel kon toevoegen. Dit was niet de bedoeling dus we moesten iets verzinnen waardoor 
+Ik kwam erachter dat je een stage dubbel kon toevoegen. Dit was niet de bedoeling dus we moesten iets verzinnen waardoor 
 
 ### Welke keuzemogelijkheden heb je?
 
@@ -74,35 +74,35 @@ In overleg met Samir hebben we besloten om voor deze keuze te gaan. Dit omdat he
 
 ## Week 5
 
-Deze week stond in het teken van de opzet van de simulatie module, de map inladen en aan de visitors van de simulatie module. Wij zijn als groep gaan kijken naar het map inladen en hiernaast ben ik aan het werk gegaan aan het plan van aanpak. Deze week was het lastig om aan het werk te gaan. De map inladen ging niet zo snel als gepland waardoor we stil kwamen te staan tot we hulp kregen van de docenten. Hierdoor kreeg ik het gevoel alsof ik geen toevoeging was voor de groep, terwijl iedereen eigenlijk stil stond. Hiernaast heb ik wel geholpen aan het maken van de map. Ik ben gaan uitzoeken hoe dit in zijn werking gaat en ben gaan uittekenen hoe het eruit moet komen te zien.
+Deze week stond in het teken van de opzet van de simulatie module, de map inladen en aan de visitors van de simulatie module. ik ben gaan kijken naar het map inladen en hiernaast ben ik aan het werk gegaan aan het plan van aanpak. Deze week was het lastig om aan het werk te gaan. De map inladen ging niet zo snel als gepland waardoor we stil kwamen te staan tot we hulp kregen van de docenten. Hierdoor kreeg ik het gevoel alsof ik geen toevoeging was voor de groep, terwijl iedereen eigenlijk stil stond. Hiernaast heb ik wel geholpen aan het maken van de map. Ik ben gaan uitzoeken hoe dit in zijn werking gaat en ben gaan uittekenen hoe het eruit moet komen te zien.
 
 ### Wat is de situatie(context)?
 
-We willen een map ontwerpen waar looppaden, atributen en stages zijn. Hier moeten de poppetjes langs kunnen lopen. We waren een beetje aan het uitproberen hoeveel lagen we nodig hadden.
+ik wil een map ontwerpen waar looppaden, atributen en stages zijn. Hier moeten de poppetjes langs kunnen lopen. Ik was een beetje aan het uitproberen hoeveel lagen we nodig hadden.
 
 ### Welke keuzemogelijkheden heb je?
 
-hier hadden we een keuze tussen 1 tot en met oneindig lagen.
+Hier had ik een keuze tussen 1 tot en met oneindig lagen.
 
 
 ### Welke keuze heb je gemaakt?
 
-Wij hebben voor de volgende lagen gekozen:
+ik had de keuze tussen de volgende lagen: 
 Een laag waarbij alleen het gras aangemaakt word.
 Een laag waar atributen aangemaakt worden.
 een laag waarin de paden en podias aangemaakt worden.
 
 ### Waarom heb je deze keuze gemaakt?
-Na onderzoek dachten wij dat je de verschillende lagen opnieuw kan laten tekenen. Hierdoor dachten wij dat het makkelijk was als je de eerst 2 maar 1 keer tekent en de 3e telkens opnieuw kon laten tekenen met de poppetjes erop.
+Na onderzoek dacht ik dat je de verschillende lagen opnieuw kan laten tekenen. Hierdoor dacht ik dat het makkelijk was als je de eerst 2 maar 1 keer tekent en de 3e telkens opnieuw kon laten tekenen met de poppetjes erop.
 
 
 ## Week 6
 
-Deze week stond in het teken van de simulatie. We zijn de map opnieuw gaan maken omdat onze vorige niet naar json-file gegenareerd kon worden. we zijn ook de visitors gaan toevoegen. hiernaars ben ik me gaan focussen hoe wij gebruik gaan maken van de map. Ik ben ook nog samen met Davy gaann werken aan een naamgenerator om toe te voegen aan de poppetjes later. Naast al deze lastige opdrachten was ik helaas ook ziek geworden en zijn wij begonnen met thuiswerken door het corona virus. Een moeilijke en angstige periode waar bij mij gezondheid boven school stond. Toch heb ik geprobeerd hard mee te werken.
+Deze week stond in het teken van de simulatie. Ik ben de map opnieuw gaan maken omdat onze vorige niet naar json-file gegenareerd kon worden. we zijn ook de visitors gaan toevoegen. hiernaars ben ik me gaan focussen hoe wij gebruik gaan maken van de map. Ik ben ook nog samen met Davy gaann werken aan een naamgenerator om toe te voegen aan de poppetjes later. Naast al deze lastige opdrachten was ik helaas ook ziek geworden en zijn wij begonnen met thuiswerken door het corona virus. Een moeilijke en angstige periode waar bij mij gezondheid boven school stond. Toch heb ik geprobeerd hard mee te werken.
 
 ### Wat is de situatie(context)?
 
-We willen meer details gaan toevoegen aan onze poppetjes. Hiervoor wilde wij namen gaan toevoegen, maar wisten nog niet hoe wij dit gingen toevoegen.
+Ik wilde meer details gaan toevoegen aan onze poppetjes. Hiervoor wilde ik namen gaan toevoegen, maar wisten nog niet hoe ik dit gingen toevoegen.
 
 ### Welke keuzemogelijkheden heb je?
 
@@ -126,7 +126,7 @@ Vanaf week 7 is er in Nederland een complete lockdown, wat ook grote gevolgen he
 
 ### Wat is de situatie(context)?
 
-we willen minder lag tijdens de simulator
+ik wilde minder lagg tijdens de simulator
 
 ### Welke keuzemogelijkheden heb je?
 
