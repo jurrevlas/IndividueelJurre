@@ -4,7 +4,12 @@
 
 ## week 2
 
-Deze week ben ik begonnen met het klassendiagram te maken voor de festivalPlanner. Dit hebben wij gemaakt met de gehele groep. Nadat ik in de ochtend het klassendiagram heb gemaakt ben ik met Menno de opzet van de java code gaan maken. Hierbij hebben we alle klassen en attributen aangemaakt en zijn we deze klasses gaan kopppelen. Aan het einde van de dag zijn wij gaan uitzoeken hoe de github werkt. Wij hebben als groep deze week ook het design van de inlogpagina en de agendamodule  afgemaakt.
+Deze week ben ik begonnen met het klassendiagram te maken voor de festivalPlanner. 
+
+
+![Plaatje][https://i.gyazo.com/22ef8883189905d99622e623c09357c7.png]
+
+Dit hebben wij gemaakt met de gehele groep. Nadat ik in de ochtend het klassendiagram heb gemaakt ben ik met Menno de opzet van de java code gaan maken. Hierbij hebben we alle klassen en attributen aangemaakt en zijn we deze klasses gaan kopppelen. Aan het einde van de dag zijn wij gaan uitzoeken hoe de github werkt. Wij hebben als groep deze week ook het design van de inlogpagina en de agendamodule  afgemaakt.
 
 ### Wat is de situatie(context)?
 
